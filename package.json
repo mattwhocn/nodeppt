@@ -1,0 +1,16 @@
+{
+  "name": "ppt",
+  "version": "1.0.0",
+  "description": "node ppt markdown file",
+  "main": "index.js",
+  "scripts": {
+    "ppt": "nodeppt start -p 8090 -d",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "ppt"
+  ],
+  "author": "matt",
+  "license": "ISC"
+}
